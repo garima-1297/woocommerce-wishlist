@@ -1,0 +1,60 @@
+.woocommerce div.product div.summary .wishlist-toggle a {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #515151;
+    background-color: #f4f8f9;
+    border-radius: 40px;
+    text-decoration: none;
+}
+.woocommerce div.product div.summary .wishlist-toggle a:hover {
+    background-color: #515151;
+    color: #f4f8f9;
+}
+
+.woocommerce div.product div.summary .wishlist-rmv-toggle {
+    margin-top:70px;
+}
+.woocommerce div.product div.summary .wishlist-rmv-toggle a {
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #515151;
+    background-color: #f4f8f9;
+    border-radius: 40px;
+    text-decoration: none;
+}
+.woocommerce div.product div.summary .wishlist-rmv-toggle a:hover {
+    background-color: #515151;
+    color: #f4f8f9;
+}
+
+.fa-heart-o:before {
+    padding: 5px;
+}
+.product_name a,.add_to_cart a{
+    text-decoration: none;
+}
+.wishlist-message{
+    color:#2196F3;
+    background-color: #F8F8F8;
+    padding: 10px 10px 10px 10px;
+    border-radius: 3px;
+    text-align: center;
+    margin-top: 10px;
+}
+.wishlist-rmv{
+    color:#2196F3;
+    background-color: #F8F8F8;
+    padding: 10px 10px 10px 10px;
+    border-radius: 3px;
+    text-align: center;
+    margin-top: 10px;
+}
+.wishlist-logo {
+    text-align: center;
+} 
+
+table.wishlist-details th,table.wishlist-details td {
+    text-align: center;
+}
